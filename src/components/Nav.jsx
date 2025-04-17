@@ -4,7 +4,7 @@ export default function Nav() {
         <>
             <header className="header">
                 <div className="logo">
-                    <img loading="lazy" src="public/v-logo.png" alt="logo" />
+                    <img loading="lazy" src="/v-logo.png" alt="logo" />
                 </div>
                 <input type="checkbox" name="" id="menu" />
                 <label for="menu" className="menu-icon">&#9776;</label>
