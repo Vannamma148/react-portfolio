@@ -15,7 +15,7 @@ export const Project = () => {
                     <div className="project-item">
                         <div className="project-img">
                             <a href="https://smvkengineering.com/" target="_blank">
-                                <img loading="lazy" src="public/projects/smvk-engineering-fabrication.webp"
+                                <img loading="lazy" src="/projects/smvk-engineering-fabrication.webp"
                                     alt="smvk_engineering" />
                             </a>
                         </div>
@@ -26,7 +26,7 @@ export const Project = () => {
                     <div className="project-item">
                         <div className="project-img">
                             <a href="https://hkgroupindia.com/" target="_blank">
-                                <img loading="lazy" src="public/projects/hk-group.webp" alt="hk_group" />
+                                <img loading="lazy" src="/projects/hk-group.webp" alt="hk_group" />
                             </a>
                         </div>
                         <a href="https://hkgroupindia.com/" target="_blank">
@@ -36,7 +36,7 @@ export const Project = () => {
                     <div className="project-item">
                         <div className="project-img">
                             <a href="https://www.hicareprotectivewear.com/" target="_blank">
-                                <img loading="lazy" src="public/projects/hicare.webp" alt="hicareprotectivewear" />
+                                <img loading="lazy" src="/projects/hicare.webp" alt="hicareprotectivewear" />
                             </a>
                         </div>
                         <a href="https://www.hicareprotectivewear.com/" target="_blank">
@@ -46,7 +46,7 @@ export const Project = () => {
                     <div className="project-item">
                         <div className="project-img">
                             <a href="https://telespacenetwork.com/" target="_blank">
-                                <img loading="lazy" src="public/projects/telespacenetwork.webp" alt="telespacenetwork" />
+                                <img loading="lazy" src="/projects/telespacenetwork.webp" alt="telespacenetwork" />
                             </a>
                         </div>
                         <a href="https://telespacenetwork.com/" target="_blank">
