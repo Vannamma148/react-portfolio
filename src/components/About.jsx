@@ -6,7 +6,7 @@ export default function About() {
   return (
     <section className="hero-section" id="about">
     <div className="webdev">
-        <img loading="lazy" src="public/webdev.jpeg" alt="" />
+        <img loading="lazy" src="/webdev.jpeg" alt="" />
     </div>
     <div className="about">
         <h1 className="heading">Vannamma N A</h1>
