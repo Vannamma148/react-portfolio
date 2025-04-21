@@ -18,7 +18,7 @@ export default function About() {
             optimization, and Canva-based branding to help businesses enhance
             their online presence.
         </p>
-        <Link to="/contact" target="_blank" class="btn-link"> Contact Now</Link>
+        <Link to="/contact" class="btn-link"> Contact Now</Link>
     </div>
 </section>
   )
