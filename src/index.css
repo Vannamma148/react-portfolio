@@ -260,7 +260,9 @@ border: none;
     justify-content: center;
     align-items: center;
 } */
-
+.logo{
+filter: grayscale(1);
+}
 input[type="text"],
 input[type="email"],
 input[type="number"],
